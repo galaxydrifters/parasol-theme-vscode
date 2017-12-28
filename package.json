@@ -1,0 +1,26 @@
+{
+    "name": "parasol-theme",
+    "displayName": "Parasol Theme",
+    "description": "A light and happy theme.",
+    "version": "0.0.1",
+    "publisher": "galaxydrifters",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "galleryBanner": {
+        "color": "#7540CA",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Parasol",
+                "uiTheme": "vs",
+                "path": "./themes/Parasol-color-theme.json"
+            }
+        ]
+    }
+}
