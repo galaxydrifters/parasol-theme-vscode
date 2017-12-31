@@ -19,7 +19,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#BFBFBF"
 			}
 		},
@@ -112,7 +112,7 @@
 				"support.function"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "",
 				"foreground": "#7540CA"
 			}
 		},
@@ -124,7 +124,7 @@
 				"support.class"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "",
 				"foreground": "#006592"
 			}
 		},
@@ -139,7 +139,7 @@
 			"name": "Sections",
 			"scope": "entity.name.section",
 			"settings": {
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -226,7 +226,7 @@
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-                "fontStyle": "underline",
+                "fontStyle": "",
 				"foreground": "#7540CA"
 			}
 		},
@@ -237,7 +237,7 @@
 				"entity.other.attribute-name.html"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#008ED4"
 			}
 		},
@@ -288,7 +288,7 @@
 			"name": "CSS: Important Keyword",
 			"scope": "keyword.other.important",
 			"settings": {
-				"fontStyle": "bold"
+				"fontStyle": ""
 			}
 		},
 		{
