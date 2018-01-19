@@ -7,6 +7,7 @@
     "engines": {
         "vscode": "^1.19.0"
     },
+    "icon": "https://raw.githubusercontent.com/galaxydrifters/parasol-theme-vscode/master/images/images/icon.png",
     "galleryBanner": {
         "color": "#7540CA",
         "theme": "dark"
